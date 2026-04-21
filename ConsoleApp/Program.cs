@@ -39,7 +39,7 @@ public class Program
     public static async Task Main()
     {
         {
-
+            counter = 0;
             DateTime start = DateTime.Now;
 
             List<Thread> threads = new List<Thread>();
@@ -73,7 +73,7 @@ public class Program
         }
 
         {
-
+            counter = 0;
             DateTime start = DateTime.Now;
 
             List<Thread> threads = new List<Thread>();
@@ -107,7 +107,7 @@ public class Program
         }
 
         {
-
+            counter = 0;
             DateTime start = DateTime.Now;
 
             List<Thread> threads = new List<Thread>();

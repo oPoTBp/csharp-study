@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\work\\ccharp\\cshart-study\\ConsoleApp\\",
+  "WorkspaceRootPath": "E:\\work\\ccharp\\csharp-study\\ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB3C6BC8-DA2B-4390-B550-01557AD2FD53}|ConsoleApp.csproj|e:\\work\\ccharp\\cshart-study\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB3C6BC8-DA2B-4390-B550-01557AD2FD53}|ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B003331C-F489-1E10-2D31-99153740F43C}|ConsoleApp.csproj|e:\\work\\ccharp\\csharp-study\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003331C-F489-1E10-2D31-99153740F43C}|ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\work\\ccharp\\cshart-study\\ConsoleApp\\Program.cs",
+              "DocumentMoniker": "E:\\work\\ccharp\\csharp-study\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\work\\ccharp\\cshart-study\\ConsoleApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAAwBQAAAAaAAAAAAAAAA==",
+              "ToolTip": "E:\\work\\ccharp\\csharp-study\\ConsoleApp\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvykAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T15:18:25.444Z",
               "EditorCaption": ""
