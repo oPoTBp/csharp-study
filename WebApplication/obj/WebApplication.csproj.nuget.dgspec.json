@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\work\\ccharp\\csharp-study\\ConsoleApp\\ConsoleApp.csproj": {}
+    "E:\\work\\ccharp\\csharp-study\\WebApplication\\WebApplication.csproj": {}
   },
   "projects": {
-    "E:\\work\\ccharp\\csharp-study\\ConsoleApp\\ConsoleApp.csproj": {
+    "E:\\work\\ccharp\\csharp-study\\WebApplication\\WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\work\\ccharp\\csharp-study\\ConsoleApp\\ConsoleApp.csproj",
-        "projectName": "ConsoleApp",
-        "projectPath": "E:\\work\\ccharp\\csharp-study\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "E:\\work\\ccharp\\csharp-study\\WebApplication\\WebApplication.csproj",
+        "projectName": "WebApplication",
+        "projectPath": "E:\\work\\ccharp\\csharp-study\\WebApplication\\WebApplication.csproj",
         "packagesPath": "C:\\Users\\Bp\\.nuget\\packages\\",
-        "outputPath": "E:\\work\\ccharp\\csharp-study\\ConsoleApp\\obj\\",
+        "outputPath": "E:\\work\\ccharp\\csharp-study\\WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,9 +50,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.Extensions.Caching.Memory": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[10.0.7, )"
+              "version": "[6.6.2, )"
             }
           },
           "imports": [
@@ -67,6 +67,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -38,6 +38,8 @@ public class Program
     public static async Task Main()
     {
         //InterlockedTest.test();
-        ServerCache<string>.Test();
+        //ServerCache<string>.Test();
+        var r = HttpClientPress.GetRequest("https://localhost:7115/weatherforecast");
+        Console.WriteLine(r);
     }
 }

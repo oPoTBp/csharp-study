@@ -406,7 +406,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bp\\.nuget\\packages\\": {}
+    "C:\\Users\\Bp\\.nuget\\packages\\": {},
+    "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -417,8 +418,12 @@
       "packagesPath": "C:\\Users\\Bp\\.nuget\\packages\\",
       "outputPath": "E:\\work\\ccharp\\csharp-study\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Bp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
